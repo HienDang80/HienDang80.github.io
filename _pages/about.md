@@ -15,18 +15,27 @@ profile:
   #   <p>Your City, State 12345</p>
 
 news: true  # includes a list of news items
-latest_posts: true  # includes a list of the newest posts
+latest_posts: false  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-Welcome! My name is Hien and I am an incoming PhD student at [Department of Statistics and Data Science, University of Texas at Austin](https://stat.utexas.edu/). Before that, I was a research resident at [FPT Software AI Center](https://fpt-aicenter.com/). I graduated with honor bachelor degree from the Department of Mathematics and Computer Science, Ho Chi Minh University of Science, Vietnam National University. 
+Welcome, thank you for visiting! My name is Hien, I am a third-year PhD student at [Department of Statistics and Data Science, University of Texas at Austin](https://stat.utexas.edu/), where I am fortunate to be advised by Prof.[Alessandro Rinaldo](https://arinaldo.github.io/) and Prof. [Pratik Patil](https://pratikpatil.io/)
 
-Email: danghoanghien1123@gmail.com
+Prior to my PhD, I worked as a research resident at [FPT Software AI Center](https://fptsoftware.com/), where I was mentored by Prof. [Nhat Ho](https://nhatptnk8912.github.io/), Prof. [Tan Minh Nguyen](https://tanmnguyen89.github.io/) and Dr. Hung The Tran. I received my bachelor's degree in mathematics from the University of Science, Vietnam National University.
 
-<big> **Research Interests** <big>
+My research interests lie broadly in statistical machine learning, high-dimensional statistics, and the theory of deep learning. Specifically, I am interested in and have worked on:
 
-My research interests are in the theory and mathematical foundation of Deep Learning. Specifically, my recent works focus on understanding "collapse" phenomena observed in deep learning architectures such as neural collapse in deep overparameterized neural networks or posterior collapse in variational autoencoders.  
+- Statistical foundations for distillation and learning with synthetic data using tools from high-dimensional statistics, such as exact asymptotics and random matrix theory.
+- Learning under data contamination and distribution shifts.
+- The structure of neural network representations, particularly phenomena such as neural collapse and posterior collapse.
+
+Here is my [Google Scholar](https://scholar.google.com/citations?user=2Q0nHTEAAAAJ&hl=vi) and [CV](assets/pdf/Resume.pdf).
+
+My email address: hiendang@utexas.edu
+
+Please feel free to reach out for discussions!
+
 
 <span style="color:red">"*" and "**" denote equal contribution </span>
 
