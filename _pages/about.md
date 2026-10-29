@@ -20,9 +20,9 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-Welcome, thank you for visiting! My name is Hien, I am a third-year PhD student at [Department of Statistics and Data Science, University of Texas at Austin](https://stat.utexas.edu/), where I am fortunate to be advised by Prof. [Alessandro Rinaldo](https://arinaldo.github.io/) and Prof. [Pratik Patil](https://pratikpatil.io/).
+Welcome, and thank you for visiting! My name is Hien, I am a third-year PhD student at [Department of Statistics and Data Science, University of Texas at Austin](https://stat.utexas.edu/), where I am fortunate to be advised by Prof. [Alessandro Rinaldo](https://arinaldo.github.io/) and Prof. [Pratik Patil](https://pratikpatil.io/).
 
-Previously, I worked as a research resident at [FPT Software AI Center](https://fptsoftware.com/), where I was mentored by Prof. [Nhat Ho](https://nhatptnk8912.github.io/), Prof. [Tan Nguyen](https://tanmnguyen89.github.io/) and Dr. Hung The Tran. I received my bachelor's degree in mathematics from the University of Science, Vietnam National University.
+Previously, I worked as an AI resident at [FPT Software AI Center](https://fptsoftware.com/), where I was mentored by Prof. [Nhat Ho](https://nhatptnk8912.github.io/), Prof. [Tan Nguyen](https://tanmnguyen89.github.io/) and Dr. Hung The Tran. I received my bachelor's degree in mathematics from the University of Science, Vietnam National University.
 
 My research interests lie broadly in statistical machine learning, high-dimensional statistics, and theory of deep learning. Specifically, I am interested in and have worked on:
 
