@@ -29,6 +29,7 @@ My research interests lie broadly in statistical machine learning, high-dimensio
 - Statistical foundation for distillation and learning with synthetic data using tools from high-dimensional statistics, such as exact asymptotics and random matrix theory.
 - Learning under data contamination and distribution shifts.
 - The structure of neural network representations, particularly phenomena such as neural collapse and posterior collapse.
+- ... and many others.
 
 Here is my [Google Scholar](https://scholar.google.com/citations?user=2Q0nHTEAAAAJ&hl=vi) and [CV](assets/pdf/Resume.pdf).
 
